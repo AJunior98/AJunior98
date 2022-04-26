@@ -1,6 +1,6 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Amauri Junior</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, My name is Amauri Junior</h1>
 
-- 🔥 Software Development Student and technology lover 
+- 🔥 I'm a Software Development Student and technology lover 
 
 - 💬 Ask me about **Java, HTML, CSS, UML**
 
