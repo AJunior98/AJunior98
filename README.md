@@ -1,12 +1,13 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Amauri Junior</h1>
-<img align="rigth" alt="Coding" width="100" height="100" src="https://media-exp1.licdn.com/dms/image/C4E22AQH4chJqro4GcA/feedshare-shrink_2048_1536/0/1641832410871?e=2147483647&v=beta&t=vVZyDtZY9l0rqXas0vlEe8BTDnfdjyL-Adn2u1zaMy8"
+<div>
+     <img align="rigth" alt="Coding" width="100" height="100" src="https://media-exp1.licdn.com/dms/image/C4E22AQH4chJqro4GcA/feedshare-shrink_2048_1536/0/1641832410871?e=2147483647&v=beta&t=vVZyDtZY9l0rqXas0vlEe8BTDnfdjyL-Adn2u1zaMy8"
      
-- 🔥 I'm a Software Development Student and technology lover 
+     - 🔥 I'm a Software Development Student and technology lover 
 
-- 🔭 I’m currently working on chess game
+     - 🔭 I’m currently working on chess game
 
-- 💬 Ask me about **Java, HTML, CSS, UML**
-
+     - 💬 Ask me about **Java, HTML, CSS, UML**
+</div>
 <br><br>
 
 ## 🛠 &nbsp;Tech Stack
