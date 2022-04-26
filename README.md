@@ -2,11 +2,11 @@
 <div>
      <img align="rigth" alt="Coding" width="100" height="100" src="https://media-exp1.licdn.com/dms/image/C4E22AQH4chJqro4GcA/feedshare-shrink_2048_1536/0/1641832410871?e=2147483647&v=beta&t=vVZyDtZY9l0rqXas0vlEe8BTDnfdjyL-Adn2u1zaMy8"
      
-     - 🔥 I'm a Software Development Student and technology lover 
+     <p align="left">- 🔥 I'm a Software Development Student and technology lover </p>
 
-     - 🔭 I’m currently working on chess game
+     <p align="left">- 🔭 I’m currently working on chess game</p>
 
-     - 💬 Ask me about **Java, HTML, CSS, UML**
+     <p align="left">- 💬 Ask me about **Java, HTML, CSS, UML**</p>
 </div>
 <br><br>
 
