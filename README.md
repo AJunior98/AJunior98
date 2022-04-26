@@ -3,7 +3,7 @@
 <img align="right" widht="400" height="300" src="https://gestaodeclinicas.ajmed.com.br/wp-content/uploads/2020/02/developer-dribbble.gif" alt="ajunior98"/>
 
 
-- 🔭 I’m currently working on [chess game](https://github.com/AJunior98/chess-system-java.git)
+- 🔭 I’m currently development a [chess game](https://github.com/AJunior98/chess-system-java.git)
 
 - 💬 Ask me about **Java and UML.**
 
