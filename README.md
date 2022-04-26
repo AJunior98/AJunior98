@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Java and UML.**
 
-- 📫 How to reach me **apojr98@gmail.com**
+- 📫 How to reach me? **apojr98@gmail.com**
 
 - ⚡ Fun fact **"Is my name Piter?"**
 
