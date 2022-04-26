@@ -1,3 +1,4 @@
+[![MasterHead](https://gestaodeclinicas.ajmed.com.br/wp-content/uploads/2020/02/developer-dribbble.gif)]
 <h1 align="center">Hi 👋, I'm Amauri Junior</h1>
 <h3 align="center">A passionate back-end developer from Brazil</h3>
 
