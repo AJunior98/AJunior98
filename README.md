@@ -1,17 +1,15 @@
 <h1 align="center">Hi 👋, I'm Amauri Junior</h1>
 <h3 align="center">A passionate back-end developer from Brazil</h3>
-<div>
-  <img align="right" widht="400" height="300" src="https://gestaodeclinicas.ajmed.com.br/wp-content/uploads/2020/02/developer-dribbble.gif" alt="ajunior98"/>
+<img align="right" widht="400" height="300" src="https://gestaodeclinicas.ajmed.com.br/wp-content/uploads/2020/02/developer-dribbble.gif" alt="ajunior98"/>
 
 
-  - 🔭 I’m currently development a [chess game](https://github.com/AJunior98/chess-system-java.git)
+- 🔭 I’m currently development a [chess game](https://github.com/AJunior98/chess-system-java.git)
 
-  - 💬 Ask me about **Java and UML.**
+- 💬 Ask me about **Java and UML.**
 
-  - 📫 How to reach me? **apojr98@gmail.com**
+- 📫 How to reach me? **apojr98@gmail.com**
 
-  - ⚡ Fun fact **"Is my name Piter?"**
-</div>
+- ⚡ Fun fact **"Is my name Piter?"**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/ajunior.98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ajunior.98" height="30" width="40" /></a>
