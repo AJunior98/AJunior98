@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Amauri Junior</h1>
 <h3 align="center">A passionate back-end developer from Brazil</h3>
-<img align="right" widht="400" height="300" src="https://gestaodeclinicas.ajmed.com.br/wp-content/uploads/2020/02/developer-dribbble.gif" alt="ajunior98"/>
+<img align="center" widht="400" height="300" src="https://gestaodeclinicas.ajmed.com.br/wp-content/uploads/2020/02/developer-dribbble.gif" alt="ajunior98"/>
 
 
 - 🔭 I’m currently development a [chess game](https://github.com/AJunior98/chess-system-java.git)
