@@ -2,7 +2,7 @@
 <h3 align="center">A passionate back-end developer from Brazil</h3>
 <img align-itens="right" widht="400" height="300" src="https://i.gifer.com/Bm7L.gif" alt="ajunior98"/>
 
-- 🔭 I’m currently development a [Monitoring system]([https://github.com/AJunior98/chess-system-java.git](https://github.com/AJunior98/EnterpriseChallenge_Bayer))
+- 🔭 I’m currently development a [Monitoring system](https://github.com/AJunior98/EnterpriseChallenge_Bayer)
 
 - 💬 Ask me about **Java and UML.**
 
