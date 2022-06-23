@@ -17,18 +17,18 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.investopedia.com/terms/h/html.asp#:~:text=HyperText%20Markup%20Language%20(HTML)%20is,web%20page's%20words%20and%20images." target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-  <img src="https://4.bp.blogspot.com/-ou-a_Aa1t7A/W6IhNc3Q0gI/AAAAAAAAD6Y/pwh44arKiuM_NBqB1H7Pz4-7QhUxAgZkACLcBGAs/s1600/spring-boot-logo.png" alt="spring" width="40" height="40"/> </a> <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"> 
-  <img src="https://img.icons8.com/color/452/java-web-token.png" alt="jwt" width="40" height="40"/> </a> <a href="https://jwt.io/" target="_blank" rel="noreferrer">     <img src="https://jessica778.github.io/lojinha-2/fav.png" alt="maven" width="40" height="40"/> </a> <a href="https://maven.apache.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://www.seekpng.com/png/full/345-3453678_junit-team-junit-5-logo-png.png" alt="Junit5" width="40" height="40"/> </a> <a href="https://junit.org/junit5/" target="_blank" rel="noreferrer"> 
-  <img src="https://miro.medium.com/max/800/1*7w64vyBXihVBrjNBBOIF9g.png" alt="mockito" width="40" height="40"/> </a> <a href="https://site.mockito.org/" target="_blank" rel="noreferrer"></p>
-
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+  <img src="https://4.bp.blogspot.com/-ou-a_Aa1t7A/W6IhNc3Q0gI/AAAAAAAAD6Y/pwh44arKiuM_NBqB1H7Pz4-7QhUxAgZkACLcBGAs/s1600/spring-boot-logo.png" alt="spring" width="40" height="40"/> 
+  <img src="https://img.icons8.com/color/452/java-web-token.png" alt="jwt" width="40" height="40"/> 
+  <img src="https://jessica778.github.io/lojinha-2/fav.png" alt="maven" width="40" height="40"/> 
+  <img src="https://www.seekpng.com/png/full/345-3453678_junit-team-junit-5-logo-png.png" alt="Junit5" width="40" height="40"/>
+  <img src="https://miro.medium.com/max/800/1*7w64vyBXihVBrjNBBOIF9g.png" alt="mockito" width="40" height="40"/> 
 <div align="center">
   <img width="49%" height="175px" src="https://github-readme-stats.vercel.app/api?username=AJunior98&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=graywhite&background=false" alt="Amauri Junior"/>
   <img width="49%" height="175px" src="https://github-readme-streak-stats.herokuapp.com/?user=AJunior98&theme=default"/>
