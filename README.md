@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=999999&size=35&center=true&vCenter=true&width=1000&lines=Hello👋,+My+name+is+Amauri+Junior+;I'm+23+years+old;A+passionate+back-end+developer+from+Brazil;I+study+systems+development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 <img align-itens="right" widht="400" height="300" src="https://i.gifer.com/Bm7L.gif" alt="ajunior98"/>
 
-- 🔭 I’m currently development a <a href="https://github.com/AJunior98/Digital-School">Digital School</a>
+- 🔭 I’m currently development a <a href="https://github.com/AJunior98/MovieFlix">MovieFlix</a>
 
 - 💬 Ask me about **Java and Spring.**
 
