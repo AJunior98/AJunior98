@@ -5,8 +5,6 @@
 
 - 💬 Ask me about **Java and Spring.**
 
-- 📫 How to reach me? **apojr98@gmail.com**
-
 - ⚡ Fun fact **"Is my name Piter?"**
 
 <h3 align="left">Connect with me:</h3>
