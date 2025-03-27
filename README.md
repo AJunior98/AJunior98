@@ -21,7 +21,6 @@
   <a href="#"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
   <a href="#"> <img src="https://4.bp.blogspot.com/-ou-a_Aa1t7A/W6IhNc3Q0gI/AAAAAAAAD6Y/pwh44arKiuM_NBqB1H7Pz4-7QhUxAgZkACLcBGAs/s1600/spring-boot-logo.png" alt="spring" width="40" height="40"/> </a>
   <a href="#"> <img src="https://img.icons8.com/color/452/java-web-token.png" alt="jwt" width="40" height="40"/> </a>
-  <a href="#"> <img src="https://jessica778.github.io/lojinha-2/fav.png" alt="maven" width="40" height="40"/> </a>
   <a href="#"> <img src="https://www.seekpng.com/png/full/345-3453678_junit-team-junit-5-logo-png.png" alt="Junit5" width="40" height="40"/></a>
   <a href="#"> <img src="https://miro.medium.com/max/800/1*7w64vyBXihVBrjNBBOIF9g.png" alt="mockito" width="40" height="40"/> </a>
 <div align="center">
