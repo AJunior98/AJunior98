@@ -28,5 +28,3 @@
   <a href="#"> <img width="49%" height="175px" src="https://github-readme-stats.vercel.app/api?username=AJunior98&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=graywhite&background=false" alt="Amauri Junior"/>
   <a href="#"> <img width="49%" height="175px" src="https://github-readme-streak-stats.herokuapp.com/?user=AJunior98&theme=default"/>
 </div>
-
-![Contribution](https://activity-graph.herokuapp.com/graph?username=AJunior98&theme=minimal&hide_border=true&area=true)
