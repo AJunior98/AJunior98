@@ -23,7 +23,3 @@
   <a href="#"> <img src="https://img.icons8.com/color/452/java-web-token.png" alt="jwt" width="40" height="40"/> </a>
   <a href="#"> <img src="https://www.seekpng.com/png/full/345-3453678_junit-team-junit-5-logo-png.png" alt="Junit5" width="40" height="40"/></a>
   <a href="#"> <img src="https://miro.medium.com/max/800/1*7w64vyBXihVBrjNBBOIF9g.png" alt="mockito" width="40" height="40"/> </a>
-<div align="center">
-  <a href="#"> <img width="49%" height="175px" src="https://github-readme-stats.vercel.app/api?username=AJunior98&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=graywhite&background=false" alt="Amauri Junior"/>
-  <a href="#"> <img width="49%" height="175px" src="https://github-readme-streak-stats.herokuapp.com/?user=AJunior98&theme=default"/>
-</div>
